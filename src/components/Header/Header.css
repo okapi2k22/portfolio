@@ -1,0 +1,26 @@
+.Header {
+    padding: 2rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    height: 20%;
+}
+
+.Header__logo {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: var(--color);
+}
+
+.Header__logo:hover {
+    color: var(--color-hover);
+}
+
+.Header > nav > ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    list-style: none;
+    text-decoration: none;
+
+}

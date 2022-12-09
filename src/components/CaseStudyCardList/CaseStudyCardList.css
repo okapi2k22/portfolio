@@ -1,0 +1,36 @@
+.CaseStudyCardList {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 2rem;
+    list-style: none;
+    padding: 2rem 0;
+}
+
+.CaseStudyCardContainer {
+    text-decoration: none;
+}
+
+.CaseStudyCard {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; 
+    border-radius: 0.5rem;
+    width: 100%;
+    transition: 0.2s ease-in;
+    max-height: 600px;
+}
+
+.CaseStudyCard__content{
+    padding: 2rem 1.25rem;
+    color: var(--color);
+    text-decoration: none;
+}
+
+.CaseStudyCard > img {
+    object-fit: fit;
+    border-radius: 0.5rem 0.5rem 0 0;
+    aspect-ratio: 1/1;
+    width: 100%;
+}
+
+.CaseStudyCard:hover {
+    transform: scale(1.05);
+}
