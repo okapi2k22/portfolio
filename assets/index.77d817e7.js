@@ -185,7 +185,7 @@ Following the conventions of top athletic brands like Nike and Adidas, Cleatwiz 
 
 As a result, users receive the elite athlete treatment!
 
-<Image src="cleatwiz-interactive-quiz.png" alt="Cleatwiz's interactive quiz process">
+<Image src="cleatwiz-interative-quiz.png" alt="Cleatwiz's interactive quiz process">
 
 ## Fun, Interactive Quiz
 To make the recommendation process simple and personalized for the user, Cleatwiz made the recommendation process an interactive quiz.
